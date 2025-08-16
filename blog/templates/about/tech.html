@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}
+  Технологии
+{% endblock %}
+{% block content %}
+      <div class="container py-5">
+        <h1>Используемые технологии</h1>
+        {% for tech in technologies %}
+            <li>{{ tech }}</li>
+        {% endfor %}
+      </div>  
+{% endblock %}
