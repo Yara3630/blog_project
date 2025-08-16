@@ -6,7 +6,7 @@
 ## Технологии:
 
 Python  
-Django  
+Django
 SQLite
 HTML
 CSS
@@ -16,7 +16,7 @@ Bootstrap
 
 ### Клонируйте репозиторий:   
 ```sh/bash
-git@github.com:AliceBolgarina/infra_sprint1.git
+git@github.com:Yara3630/blog_project.git
 ```
    
 ### Настройка и запуск приложения:
