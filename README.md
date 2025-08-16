@@ -6,11 +6,11 @@
 ## Технологии:
 
 Python  
-Django
-SQLite
-HTML
-CSS
-Bootstrap
+Django  
+SQLite   
+HTML  
+CSS  
+Bootstrap  
 
 ## Инструкция по запуску:
 
